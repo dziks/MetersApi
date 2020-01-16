@@ -1,4 +1,6 @@
-[
+
+{
+   "meters":[
     {
         "id":"100",
         "cusName":"Francis Dzikunu",
@@ -33,4 +35,6 @@
         "inspectedby":"Me"
 
     }
-]
+   ]
+
+}

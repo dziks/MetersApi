@@ -1,39 +1,4 @@
 
 {
-   "meters":[
-    {
-        "id":"100",
-        "cusName":"Francis Dzikunu",
-        "telephone":"0209061958",
-        "digitalAddress":"00000000",
-        "meterNumber":"10517458",
-        "rating":23,
-        "meterLocation":"Ashaiman",
-        "any":"yes",
-        "phase":"single phase",
-        "meterReading": 200,
-        "extraLength":100,
-        "expectedLocation":"Dzorwulu",
-        "dateVisit":"12/2/2019",
-        "inspectedby":"Dziks"
-
-    },
-	{
-        "id":"200",
-        "cusName":"Kweku Alexander",
-        "telephone":"0279801278",
-        "digitalAddress":"111111",
-        "meterNumber":"1012562",
-        "rating":30,
-        "meterLocation":"Kwabenya",
-        "any":"no",
-        "phase":"three phase",
-        "meterReading": 400,
-        "extraLength":200,
-        "expectedLocation":"Accra",
-        "dateVisit":"12/06/2020",
-        "inspectedby":"Me"
-
-    }
-   ]
+   "username":"Fdzikunu"
 }

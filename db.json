@@ -24,7 +24,7 @@
     "IsMeterFaulty": "No",
     "ExtraCableLength": "500",
     "Remarks": "Incomplete",
-    "ExtraRemarks": "no work"
+    "ExtraRemarks": "no work",
 	},
 	{
 	"Id": 31611,
@@ -48,7 +48,7 @@
     "IsMeterFaulty": "Yes",
     "ExtraCableLength": "200",
     "Remarks": "Complete",
-    "ExtraRemarks": "completed"
+    "ExtraRemarks": "completed",
 	}
    ]
 }

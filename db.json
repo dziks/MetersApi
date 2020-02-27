@@ -1,6 +1,48 @@
-
-{
-   "users":{
-	"username":"Kweku"
-   }
-}
+[
+  {
+    "CustomerName": "Francis",
+    "Telephone": "0209061958",
+    "MeterNumber": "P10517458",
+    "LocationOfMeter": "Side of the building ",
+    "CutOutMCB": "MCB",
+    "MeterReading": "100",
+    "SizeOfCable": "10 PVC",
+    "ServicePoleNumber": "pole",
+    "TransformerNumber": "transformer",
+    "ExpectedLocation": "ashaiman",
+    "InspectedBy": "jon",
+    "ImageOneUrl": "http://102.133.161.9/PublishOutput/Images/3f84b10e-c1c3-4392-8da4-8047587a4330.jpg",
+    "ImageTwoUrl": "http://102.133.161.9/PublishOutput/Images/97014547-75f0-4903-a8b4-8dc253ecab3e.jpg",
+    "ImageThreeUrl": "",
+    "TariffClass": "Residential (prepayment)",
+    "GeoCode": "3060200200921060",
+    "AccountNumber": "711937299",
+    "IsMeterFaulty": "No",
+    "ExtraCableLength": "500",
+    "Remarks": "Incomplete",
+    "ExtraRemarks": "no work"
+  },
+  {
+    "CustomerName": "KWEKU ALEXANDER",
+    "Telephone": "0279801278",
+    "MeterNumber": "P12345678",
+    "LocationOfMeter": "NON STANDARD",
+    "CutOutMCB": "MCB",
+    "MeterReading": "200",
+    "SizeOfCable": "2 x 25 PVC",
+    "ServicePoleNumber": "pole2",
+    "TransformerNumber": "transformer2",
+    "ExpectedLocation": "kwabennya",
+    "InspectedBy": "kojo",
+    "ImageOneUrl": "http://102.133.161.9/PublishOutput/Images/f83c0395-a147-4e09-b587-16fdd78c44c3.jpg",
+    "ImageTwoUrl": "http://102.133.161.9/PublishOutput/Images/75e7926b-21fd-4e46-94a8-3334bb27aab8.jpg",
+    "ImageThreeUrl": "",
+    "TariffClass": "Residential (prepayment)",
+    "GeoCode": "3065451521515",
+    "AccountNumber": "752345678",
+    "IsMeterFaulty": "Yes",
+    "ExtraCableLength": "200",
+    "Remarks": "Complete",
+    "ExtraRemarks": "completed"
+  }
+]

@@ -1,6 +1,6 @@
 
 {
-   "PreSurveyedlist":[
+   "PreSurveyedlist":{
    
 	{"username":"Kweku",
 	"Age" : "12"
@@ -9,5 +9,5 @@
 	 "username":"Dziks",
 	 "Age":"10"
 	}
-   ]
+   }
 }
